@@ -112,4 +112,11 @@ button.signup {
 .content .quote .quote-text {
   font-size: 36px;
   color: #1F2937;
+  text-align: left;
+}
+
+.content .quote .author {
+  text-align: right;
+  font-weight: 900;
+  font-size: 18px;
 }
