@@ -80,6 +80,9 @@ button.signup {
 
 .content .information h2 {
   margin: 50px;
+  font-weight: 900px;
+  font-size: 36px;
+  color: #1F2937;
 }
 
 .content .images {
@@ -92,10 +95,11 @@ button.signup {
 .info.image {
   border: 5px solid #3882F6;
   border-radius: 10px;
-  width: 130px;
-  height: 130px;
+  width: 200px;
+  height: 200px;
 }
 
 .content .info-container {
-  width: 130px; 
+  width: 200px;
+  font-size: 18px; 
 }
