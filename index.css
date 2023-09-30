@@ -79,7 +79,7 @@ button.signup {
   flex-wrap: wrap;
 }
 
-.content .images .image {
+.info.image {
   border: 5px solid #3882F6;
   border-radius: 10px;
   width: 130px;
