@@ -38,7 +38,7 @@ html {
   color: #E5E7EB;
 }
 
-.top {
+.header .top {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -74,9 +74,19 @@ button.signup {
   text-align: center;
 }
 
+.content .information {
+  padding-bottom: 100px;
+}
+
+.content .information h2 {
+  margin: 50px;
+}
+
 .content .images {
   display: flex;
   flex-wrap: wrap;
+  gap: 80px;
+  justify-content: center;
 }
 
 .info.image {
@@ -84,4 +94,8 @@ button.signup {
   border-radius: 10px;
   width: 130px;
   height: 130px;
+}
+
+.content .info-container {
+  width: 130px; 
 }
