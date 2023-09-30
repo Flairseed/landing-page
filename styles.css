@@ -103,3 +103,8 @@ button.signup {
   width: 200px;
   font-size: 18px; 
 }
+
+.content .quote .quote-text {
+  font-size: 36px;
+  color: #1F2937;
+}
