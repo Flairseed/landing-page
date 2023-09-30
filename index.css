@@ -69,3 +69,19 @@ button.signup {
   padding: 7px 30px;
   border-radius: 5px;
 }
+
+.content {
+  text-align: center;
+}
+
+.content .images {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.content .images .image {
+  border: 5px solid #3882F6;
+  border-radius: 10px;
+  width: 130px;
+  height: 130px;
+}
