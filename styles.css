@@ -74,6 +74,11 @@ button.signup-button {
   border-radius: 5px;
 }
 
+button.signup-button:hover {
+  background-color: #5a97f9;
+  cursor: pointer;
+}
+
 .content {
   text-align: center;
 }
