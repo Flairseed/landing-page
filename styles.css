@@ -61,7 +61,7 @@ html {
   align-items: center;
 }
 
-button.signup {
+button.signup-button {
   background-color: #3882F6;
   color: #E5E7EB;
   font-weight: bold;
@@ -119,4 +119,25 @@ button.signup {
   text-align: right;
   font-weight: 900;
   font-size: 18px;
+}
+
+.content .signup {
+  background-color: #3882F6;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  margin: 100px;
+  border-radius: 10px;
+}
+
+.content .signup h4 {
+  margin: 0;
+}
+
+.content .signup p {
+  margin: 0;
+}
+
+.content .signup-text {
+  text-align: left;
 }
