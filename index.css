@@ -58,6 +58,7 @@ html {
   display: flex;
   gap: 30px;
   margin: 100px 0px;
+  align-items: center;
 }
 
 button.signup {
