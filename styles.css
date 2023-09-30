@@ -141,3 +141,7 @@ button.signup-button {
 .content .signup-text {
   text-align: left;
 }
+
+.content .signup-button {
+  border: 3px solid white;
+}
